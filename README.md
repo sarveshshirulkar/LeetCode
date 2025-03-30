@@ -31,6 +31,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [2383-add-two-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2383-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
