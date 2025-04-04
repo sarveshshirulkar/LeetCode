@@ -39,4 +39,8 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/0371-sum-of-two-integers) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/sarveshshirulkar/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
