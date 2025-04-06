@@ -29,6 +29,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarveshshirulkar/LeetCode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Solutions to  Leetcode problems.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2383-add-two-integers) |
@@ -63,4 +65,8 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sarveshshirulkar/LeetCode/tree/master/0125-valid-palindrome) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
