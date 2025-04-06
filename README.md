@@ -6,6 +6,7 @@ Solutions to  Leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sarveshshirulkar/LeetCode/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarveshshirulkar/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -32,6 +33,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarveshshirulkar/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/sarveshshirulkar/LeetCode/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
@@ -42,6 +44,7 @@ Solutions to  Leetcode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sarveshshirulkar/LeetCode/tree/master/0078-subsets) |
 | [0371-sum-of-two-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Database
