@@ -51,6 +51,7 @@ Solutions to  Leetcode problems.
 | [0371-sum-of-two-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2383-add-two-integers) |
+| [2998-count-symmetric-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Two Pointers
 |  |
 | ------- |
