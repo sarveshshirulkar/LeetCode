@@ -9,6 +9,7 @@ Solutions to  Leetcode problems.
 | [0078-subsets](https://github.com/sarveshshirulkar/LeetCode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/sarveshshirulkar/LeetCode/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1656-count-good-triplets](https://github.com/sarveshshirulkar/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarveshshirulkar/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -69,6 +70,7 @@ Solutions to  Leetcode problems.
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/sarveshshirulkar/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Two Pointers
