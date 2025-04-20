@@ -32,6 +32,7 @@ Solutions to  Leetcode problems.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sarveshshirulkar/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/sarveshshirulkar/LeetCode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/sarveshshirulkar/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/sarveshshirulkar/LeetCode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
