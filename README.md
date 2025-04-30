@@ -10,6 +10,7 @@ Solutions to  Leetcode problems.
 | [0198-house-robber](https://github.com/sarveshshirulkar/LeetCode/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sarveshshirulkar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/sarveshshirulkar/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -59,6 +60,7 @@ Solutions to  Leetcode problems.
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sarveshshirulkar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/sarveshshirulkar/LeetCode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2383-add-two-integers) |
