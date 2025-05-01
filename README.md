@@ -6,6 +6,7 @@ Solutions to  Leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/sarveshshirulkar/LeetCode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/sarveshshirulkar/LeetCode/tree/master/0198-house-robber) |
@@ -91,6 +92,7 @@ Solutions to  Leetcode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/sarveshshirulkar/LeetCode/tree/master/0125-valid-palindrome) |
 ## Memoization
