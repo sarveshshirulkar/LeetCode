@@ -110,6 +110,7 @@ Solutions to  Leetcode problems.
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sarveshshirulkar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sarveshshirulkar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -119,6 +120,7 @@ Solutions to  Leetcode problems.
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sarveshshirulkar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sarveshshirulkar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -154,4 +156,12 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sarveshshirulkar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sarveshshirulkar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
