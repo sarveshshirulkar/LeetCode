@@ -29,6 +29,7 @@ Solutions to  Leetcode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sarveshshirulkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/sarveshshirulkar/LeetCode/tree/master/1500-count-largest-group) |
@@ -45,6 +46,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sarveshshirulkar/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/sarveshshirulkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/sarveshshirulkar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/sarveshshirulkar/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/sarveshshirulkar/LeetCode/tree/master/0125-valid-palindrome) |
@@ -66,6 +68,7 @@ Solutions to  Leetcode problems.
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sarveshshirulkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/0371-sum-of-two-integers) |
