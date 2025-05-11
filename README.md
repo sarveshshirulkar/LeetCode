@@ -12,6 +12,7 @@ Solutions to  Leetcode problems.
 | [0078-subsets](https://github.com/sarveshshirulkar/LeetCode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/sarveshshirulkar/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -34,6 +35,7 @@ Solutions to  Leetcode problems.
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarveshshirulkar/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/sarveshshirulkar/LeetCode/tree/master/1500-count-largest-group) |
@@ -44,6 +46,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarveshshirulkar/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## String
@@ -147,6 +150,7 @@ Solutions to  Leetcode problems.
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Simulation
 |  |
