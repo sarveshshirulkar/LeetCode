@@ -9,6 +9,7 @@ Solutions to  Leetcode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/sarveshshirulkar/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sarveshshirulkar/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -56,6 +57,7 @@ Solutions to  Leetcode problems.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sarveshshirulkar/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -133,6 +135,7 @@ Solutions to  Leetcode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/sarveshshirulkar/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/sarveshshirulkar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0868-push-dominoes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0868-push-dominoes) |
