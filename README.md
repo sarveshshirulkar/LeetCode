@@ -35,6 +35,7 @@ Solutions to  Leetcode problems.
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarveshshirulkar/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sarveshshirulkar/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/sarveshshirulkar/LeetCode/tree/master/3321-type-of-triangle) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sarveshshirulkar/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sarveshshirulkar/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -63,6 +64,7 @@ Solutions to  Leetcode problems.
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarveshshirulkar/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3321-type-of-triangle](https://github.com/sarveshshirulkar/LeetCode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Solutions to  Leetcode problems.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2383-add-two-integers) |
 | [2998-count-symmetric-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3321-type-of-triangle](https://github.com/sarveshshirulkar/LeetCode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
 |  |
