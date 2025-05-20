@@ -36,6 +36,7 @@ Solutions to  Leetcode problems.
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarveshshirulkar/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sarveshshirulkar/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/sarveshshirulkar/LeetCode/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sarveshshirulkar/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sarveshshirulkar/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -181,6 +182,7 @@ Solutions to  Leetcode problems.
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3639-zero-array-transformation-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Counting
 |  |
 | ------- |
