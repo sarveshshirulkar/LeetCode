@@ -8,6 +8,7 @@ Solutions to  Leetcode problems.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sarveshshirulkar/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sarveshshirulkar/LeetCode/tree/master/0078-subsets) |
@@ -82,6 +83,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarveshshirulkar/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sarveshshirulkar/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0213-house-robber-ii) |
@@ -167,6 +169,7 @@ Solutions to  Leetcode problems.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarveshshirulkar/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
