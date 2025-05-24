@@ -37,6 +37,7 @@ Solutions to  Leetcode problems.
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarveshshirulkar/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/sarveshshirulkar/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sarveshshirulkar/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/sarveshshirulkar/LeetCode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -85,6 +86,7 @@ Solutions to  Leetcode problems.
 | [0125-valid-palindrome](https://github.com/sarveshshirulkar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0868-push-dominoes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0868-push-dominoes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/sarveshshirulkar/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
