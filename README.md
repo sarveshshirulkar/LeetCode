@@ -248,6 +248,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarveshshirulkar/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -273,4 +274,8 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
