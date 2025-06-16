@@ -23,6 +23,7 @@ Solutions to  Leetcode problems.
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarveshshirulkar/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sarveshshirulkar/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/sarveshshirulkar/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sarveshshirulkar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/sarveshshirulkar/LeetCode/tree/master/1656-count-good-triplets) |
