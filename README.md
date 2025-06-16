@@ -30,6 +30,7 @@ Solutions to  Leetcode problems.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/sarveshshirulkar/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sarveshshirulkar/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/sarveshshirulkar/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sarveshshirulkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -200,6 +201,7 @@ Solutions to  Leetcode problems.
 | ------- |
 | [0045-jump-game-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/sarveshshirulkar/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sarveshshirulkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
