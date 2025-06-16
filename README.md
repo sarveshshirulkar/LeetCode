@@ -29,6 +29,7 @@ Solutions to  Leetcode problems.
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarveshshirulkar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/sarveshshirulkar/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/sarveshshirulkar/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sarveshshirulkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
