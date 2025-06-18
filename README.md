@@ -48,6 +48,7 @@ Solutions to  Leetcode problems.
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarveshshirulkar/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/sarveshshirulkar/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sarveshshirulkar/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sarveshshirulkar/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/sarveshshirulkar/LeetCode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -87,6 +88,7 @@ Solutions to  Leetcode problems.
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarveshshirulkar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarveshshirulkar/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sarveshshirulkar/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/sarveshshirulkar/LeetCode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## String
@@ -212,6 +214,7 @@ Solutions to  Leetcode problems.
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarveshshirulkar/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sarveshshirulkar/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3647-zero-array-transformation-iii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
