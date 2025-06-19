@@ -8,6 +8,7 @@ Solutions to  Leetcode problems.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/sarveshshirulkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/sarveshshirulkar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -197,6 +198,7 @@ Solutions to  Leetcode problems.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sarveshshirulkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0713-subarray-product-less-than-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sarveshshirulkar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/sarveshshirulkar/LeetCode/tree/master/0792-binary-search) |
