@@ -110,6 +110,7 @@ Solutions to  Leetcode problems.
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sarveshshirulkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/sarveshshirulkar/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -127,6 +128,7 @@ Solutions to  Leetcode problems.
 | [0868-push-dominoes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarveshshirulkar/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sarveshshirulkar/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
@@ -198,6 +200,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/0070-climbing-stairs) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Tree
 |  |
 | ------- |
@@ -223,6 +226,7 @@ Solutions to  Leetcode problems.
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sarveshshirulkar/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sarveshshirulkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarveshshirulkar/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
