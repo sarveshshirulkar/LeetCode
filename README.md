@@ -168,6 +168,7 @@ Solutions to  Leetcode problems.
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/sarveshshirulkar/LeetCode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sarveshshirulkar/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1153-product-sales-analysis-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/1153-product-sales-analysis-i) |
 ## Combinatorics
