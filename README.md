@@ -22,6 +22,7 @@ Solutions to  Leetcode problems.
 | [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0560-subarray-sum-equals-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/sarveshshirulkar/LeetCode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -68,6 +69,7 @@ Solutions to  Leetcode problems.
 | [0202-happy-number](https://github.com/sarveshshirulkar/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/sarveshshirulkar/LeetCode/tree/master/1500-count-largest-group) |
@@ -91,6 +93,7 @@ Solutions to  Leetcode problems.
 | [0215-kth-largest-element-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarveshshirulkar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -239,6 +242,7 @@ Solutions to  Leetcode problems.
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -256,6 +260,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sarveshshirulkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
