@@ -35,6 +35,7 @@ Solutions to  Leetcode problems.
 | [1656-count-good-triplets](https://github.com/sarveshshirulkar/LeetCode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarveshshirulkar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/sarveshshirulkar/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sarveshshirulkar/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sarveshshirulkar/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -76,6 +77,7 @@ Solutions to  Leetcode problems.
 | [1500-count-largest-group](https://github.com/sarveshshirulkar/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarveshshirulkar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sarveshshirulkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -327,4 +329,8 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
