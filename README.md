@@ -31,6 +31,7 @@ Solutions to  Leetcode problems.
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sarveshshirulkar/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/sarveshshirulkar/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sarveshshirulkar/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sarveshshirulkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/sarveshshirulkar/LeetCode/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarveshshirulkar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -98,6 +99,7 @@ Solutions to  Leetcode problems.
 | [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sarveshshirulkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarveshshirulkar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -237,6 +239,7 @@ Solutions to  Leetcode problems.
 | ------- |
 | [0045-jump-game-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sarveshshirulkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sarveshshirulkar/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/sarveshshirulkar/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -288,6 +291,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sarveshshirulkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3647-zero-array-transformation-iii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Quickselect
