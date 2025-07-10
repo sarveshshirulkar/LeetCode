@@ -62,6 +62,7 @@ Solutions to  Leetcode problems.
 | [3647-zero-array-transformation-iii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/sarveshshirulkar/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/sarveshshirulkar/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -198,6 +199,7 @@ Solutions to  Leetcode problems.
 | [2202-sum-of-k-mirror-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
@@ -249,6 +251,7 @@ Solutions to  Leetcode problems.
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sarveshshirulkar/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sarveshshirulkar/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3647-zero-array-transformation-iii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Sliding Window
 |  |
 | ------- |
