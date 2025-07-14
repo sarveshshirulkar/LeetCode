@@ -72,6 +72,7 @@ Solutions to  Leetcode problems.
 | [0128-longest-consecutive-sequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/sarveshshirulkar/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/sarveshshirulkar/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -119,6 +120,7 @@ Solutions to  Leetcode problems.
 | [0125-valid-palindrome](https://github.com/sarveshshirulkar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/sarveshshirulkar/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sarveshshirulkar/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0383-ransom-note](https://github.com/sarveshshirulkar/LeetCode/tree/master/0383-ransom-note) |
 | [0868-push-dominoes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -273,6 +275,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/sarveshshirulkar/LeetCode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
