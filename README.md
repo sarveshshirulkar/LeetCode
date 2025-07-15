@@ -6,6 +6,7 @@ Solutions to  Leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sarveshshirulkar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sarveshshirulkar/LeetCode/tree/master/0035-search-insert-position) |
@@ -124,6 +125,7 @@ Solutions to  Leetcode problems.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sarveshshirulkar/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sarveshshirulkar/LeetCode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/sarveshshirulkar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/sarveshshirulkar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/sarveshshirulkar/LeetCode/tree/master/0038-count-and-say) |
@@ -357,6 +359,7 @@ Solutions to  Leetcode problems.
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sarveshshirulkar/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Design
 |  |
