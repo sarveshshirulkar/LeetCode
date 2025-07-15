@@ -11,6 +11,7 @@ Solutions to  Leetcode problems.
 | [0035-search-insert-position](https://github.com/sarveshshirulkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/sarveshshirulkar/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sarveshshirulkar/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sarveshshirulkar/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sarveshshirulkar/LeetCode/tree/master/0078-subsets) |
@@ -147,6 +148,7 @@ Solutions to  Leetcode problems.
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarveshshirulkar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/sarveshshirulkar/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarveshshirulkar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sarveshshirulkar/LeetCode/tree/master/0198-house-robber) |
@@ -254,6 +256,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/sarveshshirulkar/LeetCode/tree/master/0055-jump-game) |
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sarveshshirulkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/sarveshshirulkar/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
