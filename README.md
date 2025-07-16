@@ -7,6 +7,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sarveshshirulkar/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sarveshshirulkar/LeetCode/tree/master/0035-search-insert-position) |
@@ -106,6 +107,7 @@ Solutions to  Leetcode problems.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sarveshshirulkar/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
@@ -228,6 +230,7 @@ Solutions to  Leetcode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
