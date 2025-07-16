@@ -138,6 +138,7 @@ Solutions to  Leetcode problems.
 | [0242-valid-anagram](https://github.com/sarveshshirulkar/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sarveshshirulkar/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sarveshshirulkar/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -160,6 +161,7 @@ Solutions to  Leetcode problems.
 | [0198-house-robber](https://github.com/sarveshshirulkar/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarveshshirulkar/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -233,6 +235,7 @@ Solutions to  Leetcode problems.
 | [0125-valid-palindrome](https://github.com/sarveshshirulkar/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/sarveshshirulkar/LeetCode/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0868-push-dominoes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sarveshshirulkar/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
