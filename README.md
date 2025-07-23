@@ -142,6 +142,7 @@ Solutions to  Leetcode problems.
 | [0290-word-pattern](https://github.com/sarveshshirulkar/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sarveshshirulkar/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0392-is-subsequence) |
+| [0812-rotate-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1250-longest-common-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -364,6 +365,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/sarveshshirulkar/LeetCode/tree/master/0812-rotate-string) |
 ## Stack
 |  |
 | ------- |
