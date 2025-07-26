@@ -161,6 +161,7 @@ Solutions to  Leetcode problems.
 | [0022-generate-parentheses](https://github.com/sarveshshirulkar/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sarveshshirulkar/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sarveshshirulkar/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarveshshirulkar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sarveshshirulkar/LeetCode/tree/master/0198-house-robber) |
@@ -184,6 +185,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarveshshirulkar/LeetCode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/sarveshshirulkar/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/sarveshshirulkar/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sarveshshirulkar/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -218,6 +220,7 @@ Solutions to  Leetcode problems.
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sarveshshirulkar/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
