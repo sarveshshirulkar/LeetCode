@@ -58,6 +58,7 @@ Solutions to  Leetcode problems.
 | [2308-divide-array-into-equal-pairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sarveshshirulkar/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarveshshirulkar/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/sarveshshirulkar/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
@@ -218,6 +219,7 @@ Solutions to  Leetcode problems.
 | [0371-sum-of-two-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sarveshshirulkar/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sarveshshirulkar/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Database
 |  |
 | ------- |
@@ -397,4 +399,8 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/sarveshshirulkar/LeetCode/tree/master/0274-h-index) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sarveshshirulkar/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
