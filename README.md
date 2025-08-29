@@ -213,6 +213,7 @@ Solutions to  Leetcode problems.
 | [2383-add-two-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2383-add-two-integers) |
 | [2998-count-symmetric-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sarveshshirulkar/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/sarveshshirulkar/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/sarveshshirulkar/LeetCode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sarveshshirulkar/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
