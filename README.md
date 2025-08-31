@@ -11,6 +11,7 @@ Solutions to  Leetcode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sarveshshirulkar/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/sarveshshirulkar/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/sarveshshirulkar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sarveshshirulkar/LeetCode/tree/master/0055-jump-game) |
@@ -82,6 +83,7 @@ Solutions to  Leetcode problems.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarveshshirulkar/LeetCode/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/sarveshshirulkar/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/sarveshshirulkar/LeetCode/tree/master/0202-happy-number) |
@@ -371,6 +373,7 @@ Solutions to  Leetcode problems.
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sarveshshirulkar/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/sarveshshirulkar/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/0064-minimum-path-sum) |
