@@ -219,6 +219,7 @@ Solutions to  Leetcode problems.
 | [3321-type-of-triangle](https://github.com/sarveshshirulkar/LeetCode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sarveshshirulkar/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3830-find-closest-person](https://github.com/sarveshshirulkar/LeetCode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
