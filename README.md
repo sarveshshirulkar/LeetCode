@@ -25,6 +25,7 @@ Solutions to  Leetcode problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarveshshirulkar/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarveshshirulkar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sarveshshirulkar/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -86,6 +87,7 @@ Solutions to  Leetcode problems.
 | [0036-valid-sudoku](https://github.com/sarveshshirulkar/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sarveshshirulkar/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sarveshshirulkar/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -120,6 +122,7 @@ Solutions to  Leetcode problems.
 | ------- |
 | [0015-3sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sarveshshirulkar/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sarveshshirulkar/LeetCode/tree/master/0242-valid-anagram) |
@@ -337,6 +340,7 @@ Solutions to  Leetcode problems.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/sarveshshirulkar/LeetCode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -358,6 +362,7 @@ Solutions to  Leetcode problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
