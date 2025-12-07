@@ -34,6 +34,7 @@ Solutions to  Leetcode problems.
 | [0229-majority-element-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/sarveshshirulkar/LeetCode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -190,6 +191,7 @@ Solutions to  Leetcode problems.
 | [0213-house-robber-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/sarveshshirulkar/LeetCode/tree/master/0868-push-dominoes) |
 | [0967-minimum-falling-path-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarveshshirulkar/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
