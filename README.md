@@ -29,6 +29,7 @@ Solutions to  Leetcode problems.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarveshshirulkar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sarveshshirulkar/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/sarveshshirulkar/LeetCode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -308,6 +309,7 @@ Solutions to  Leetcode problems.
 | ------- |
 | [0035-search-insert-position](https://github.com/sarveshshirulkar/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sarveshshirulkar/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sarveshshirulkar/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/sarveshshirulkar/LeetCode/tree/master/0792-binary-search) |
@@ -338,6 +340,7 @@ Solutions to  Leetcode problems.
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -347,6 +350,7 @@ Solutions to  Leetcode problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sarveshshirulkar/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
