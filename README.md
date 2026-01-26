@@ -46,6 +46,7 @@ Solutions to  Leetcode problems.
 | [0797-rabbits-in-forest](https://github.com/sarveshshirulkar/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0967-minimum-falling-path-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarveshshirulkar/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
+| [1200-minimum-absolute-difference](https://github.com/sarveshshirulkar/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/sarveshshirulkar/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sarveshshirulkar/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/sarveshshirulkar/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -137,6 +138,7 @@ Solutions to  Leetcode problems.
 | [0274-h-index](https://github.com/sarveshshirulkar/LeetCode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/sarveshshirulkar/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarveshshirulkar/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1200-minimum-absolute-difference](https://github.com/sarveshshirulkar/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sarveshshirulkar/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarveshshirulkar/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
