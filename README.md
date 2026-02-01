@@ -74,6 +74,7 @@ Solutions to  Leetcode problems.
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sarveshshirulkar/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarveshshirulkar/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/sarveshshirulkar/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -146,6 +147,7 @@ Solutions to  Leetcode problems.
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarveshshirulkar/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sarveshshirulkar/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sarveshshirulkar/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/sarveshshirulkar/LeetCode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -280,6 +282,7 @@ Solutions to  Leetcode problems.
 | [2202-sum-of-k-mirror-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/sarveshshirulkar/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarveshshirulkar/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sarveshshirulkar/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/sarveshshirulkar/LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
